@@ -2,7 +2,7 @@
   "name": "footable",
   "title": "FooTable",
   "description": "jQuery plugin to make HTML tables responsive",
-  "version": "2.0.4",
+  "version": "2.0.7",
   "homepage": "http://themergency.com/footable/",
   "author": {
     "name": "FooPlugins",
@@ -18,6 +18,11 @@
       "name": "Brad Vincent",
       "email": "bradvin@gmail.com",
       "url": "http://themergency.com"
+    },
+    {
+      "name": "Temp",
+      "email": "xxx@xxx.xxx",
+      "url": "http://xxx.xxx"
     }
   ],
   "repository": {

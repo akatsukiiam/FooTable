@@ -6,8 +6,8 @@
         filter: {
             enabled: true,
             input: '.footable-filter',
-            timeout: 300,
-            minimum: 2,
+            timeout: 100,
+            minimum: 1,
             disableEnter: false,
             filterFunction: function(index) {
                 var $t = $(this),
